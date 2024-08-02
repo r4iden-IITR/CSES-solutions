@@ -1,2 +1,2 @@
 # CSES-solutions
-A beginners solutions to the CSES problem set
+The solutions to the CSES problem set written by a beginner in c++
